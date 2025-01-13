@@ -13,3 +13,4 @@ console.log(message);
 
 let time = 16;
 let greeting = time < 12 ? "Good Morning" : "Good afternoon";
+
