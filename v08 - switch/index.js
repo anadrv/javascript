@@ -40,6 +40,9 @@ switch(true) {
     case testScore >= 70:
         letterGrade = "C";
         break;
+    case testScore >= 60:
+        letterGrade = "D";
+        break;
     default:
         letterGrade = "F";
 }
