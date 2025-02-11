@@ -21,3 +21,4 @@ const email = "magnus@gmail.com";
 
 let userName = email.slice(0, email.indexOf("@"));
 let extenstion = email.slice(email.indexOf("@") + 1);
+
